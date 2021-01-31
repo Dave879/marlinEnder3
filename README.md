@@ -3,11 +3,14 @@ This repository hosts my Marlin configuration.
 
 My Ender 3 is basically stock: the only modification I made is to change the MELZI board with an SKR 1.4 Turbo with TMC 2209 on all axis.
 
-!! Sensorless homing is not enabled !!
+***Based on Marlin version:***
+***2.0.7.2***
+
+**Sensorless homing is not enabled**
 
 Feel free to use this with your printer if oyu are having trouble configuring Marlin by yourself.
 
-Known issues:
+**Known issues:**
 When doing manual bed levelling, the bottom part of the text is cut off when changing probing points.
 
 ## Full list of features enabled or disabled:
