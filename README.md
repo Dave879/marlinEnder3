@@ -10,9 +10,9 @@ Feel free to use this with your printer if oyu are having trouble configuring Ma
 Known issues:
 When doing manual bed levelling, the bottom part of the text is cut off when changing probing points.
 
-Full list of features enabled or disabled:
+## Full list of features enabled or disabled:
 
-## Configuration.h
+### Configuration.h
 
 1. Mesh bed Levelling (Manual, not ABL)
 1. Home axis indipendently
@@ -25,7 +25,7 @@ Full list of features enabled or disabled:
 1. CRC checks on SD card
 1. CR10 display (stock Ender 3 display)
 
-## Configuration_adv.h
+### Configuration_adv.h
 
 1. Scroll long filenames
 1. Babystepping + Double click while printing to babystep
