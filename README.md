@@ -1,7 +1,7 @@
 # marlinEnder3
 This repository hosts my Marlin configuration.
 
-My Ender 3 is basically stock: the only modification I made is to change the MELZI board with an SKR 1.4 Turbo with TMC 2209 on all axis.
+My Ender 3 is basically stock: the only modification I made is to change the MELZI board with an SKR 1.4 Turbo with TMC 2209 drivers on every axis.
 
 ***Based on Marlin version:***
 ***2.0.7.2***
