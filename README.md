@@ -12,6 +12,7 @@ Feel free to use this with your printer if oyu are having trouble configuring Ma
 
 **Known issues:**
 When doing manual bed levelling, the bottom part of the text is cut off when changing probing points.
+(25.03.2021) I'm now having an issue with the power outage feature, when enabled it makes a print stop with an error.
 
 ## Full list of features enabled or disabled:
 
@@ -19,7 +20,7 @@ When doing manual bed levelling, the bottom part of the text is cut off when cha
 
 1. Mesh bed Levelling (Manual, not ABL)
 1. Home axis indipendently
-1. Power outage
+1. Power outage (you have to enable it by yourself through the menu)
 1. Normal Ender 3 bootscreen
 1. Custom Statusscreen
 1. Added PID menu to tune and save hotend PID data (the values present in configuration.h are the ones I use, but you should [tune your hotend yourself](https://reprap.org/wiki/PID_Tuning))
