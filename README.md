@@ -8,7 +8,7 @@ My Ender 3 is basically stock: the only modification I made is to change the MEL
 
 **Sensorless homing is not enabled**
 
-Feel free to use this with your printer if oyu are having trouble configuring Marlin by yourself.
+Feel free to use this with your printer if you are having trouble configuring Marlin by yourself.
 
 **Known issues:**
 1. When doing manual bed levelling, the bottom part of the text is cut off when changing probing points.
