@@ -4,7 +4,7 @@ This repository hosts my Marlin configuration.
 My Ender 3 is basically stock: the only modification I made is to change the MELZI board with an SKR 1.4 Turbo with TMC 2209 drivers on every axis.
 
 ***Based on Marlin version:***
-***2.0.7.2***
+***2.0.8***
 
 **Sensorless homing is not enabled**
 
@@ -12,7 +12,6 @@ Feel free to use this with your printer if oyu are having trouble configuring Ma
 
 **Known issues:**
 1. When doing manual bed levelling, the bottom part of the text is cut off when changing probing points.
-1. (25.03.2021) I'm now having an issue with the power outage feature, when enabled it makes a print stop with an error.
 
 ## Full list of features enabled or disabled:
 
